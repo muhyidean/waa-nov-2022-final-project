@@ -61,7 +61,6 @@ Refer to zillow.com
 * Use Java and Spring Boot framework for the backend project.
 * Use React framework for the frontend project.
 * Use n-tier software architecture model.
-* PostgreSQL is recommended as a Relational Database system.
 * Populate your database with dummy data using `data.sql`.
 	* Prepare your dummy data for testing and presentation.
 
@@ -69,7 +68,7 @@ Refer to zillow.com
 ---
 * Submit a detailed project plan for your daily performance (day/task/time) and submit it with your code.
 * Upload your work in one folder to the Sakai.
-* Deadline: Saturday Oct 1 at 11:55 PM.
+* Deadline: Fiday Nov 26 at 11:55 PM.
 * Project will be evaluated based on your code quality. It is possible that I will need to schedule meetings with some students about their source-code.
 
 #### Important Notes
