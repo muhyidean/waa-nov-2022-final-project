@@ -62,19 +62,5 @@ Refer to zillow.com
 * Populate your database with dummy data using `data.sql`.
 	* Prepare your dummy data for testing and presentation.
 
-#### Submission
----
-* Submit a detailed project plan for your daily performance (day/task/time) and submit it with your code.
-* Upload your work in one folder to the Sakai.
-* Deadline: Fiday Nov 26 at 11:55 PM.
-* Project will be evaluated based on your code quality. It is possible that I will need to schedule meetings with some students about their source-code.
-
-#### Important Notes
----
- * You are not allowed to share codes with your classmates. If detected, you will get NC.
- 
-* Remember to respect the code honor submission policy. All written code must be original. Presenting something as one’s own work when it came from another source is plagiarism and is forbidden.
-    
-* Plagiarism is a very serious thing in all American academic institutions and is guarded against vigilantly by every professor.
  
 
